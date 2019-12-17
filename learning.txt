@@ -5,9 +5,14 @@ Ansible
 
 Jenkins
 
+Nagios
+AWS
 
 
 Thank you!
 
 
+Done with the changes
+
 Final copy...
+
