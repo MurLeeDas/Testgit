@@ -5,6 +5,8 @@ Ansible
 
 Jenkins
 
+Nagios
+AWS
 
 
 Thank you!
